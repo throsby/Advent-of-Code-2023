@@ -1,3 +1,3 @@
-module AdventTools
+module adventtools
 
 go 1.21.5
