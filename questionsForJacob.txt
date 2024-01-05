@@ -1,0 +1,6 @@
+VSCode Has successfully bullied me into more complex patterns after updating Go from 1.18.x to 1.21.x. What did it make me do?
+
+When I remove the go.work file the AoC directory - completely or move it into the Day_2 directory - VSCode yells at me. 
+What's up with that [Jerry Seinfeld's Voice]
+
+How do I diversify the go.work for several main.go projects? Or is the way that the AoC directory is structured too weirdly compared to other projects that I can take a lesson from what the linter/Golang extenstion is telling me.
