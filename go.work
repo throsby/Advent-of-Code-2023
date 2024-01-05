@@ -1,3 +1,5 @@
 go 1.21.5
 
 use ./Day_2
+use ./Day_3
+use ./AdventTools
